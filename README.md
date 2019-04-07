@@ -1,10 +1,9 @@
 # BlackNWhite
-A two players black and white board game.
+A two players black and white board game. It is build on Libgdx framework oF Java.
 
 ## Basic Rules:
 
-1. There are two movable circles on the board. One circle is black and the other is white.
-
+1. There are two movable circles on the board. One circle is black and the other is white.<br/>
 2. The player can move the two circles to up, down, left and right using a keyboard.<br/>
 -> Black controls: W, S, A, D for moving up, down, left, right respectively.<br/>
 -> White controls: Up, Down, Left, Right for moving up, down, left, right respectively.<br/>
@@ -17,7 +16,7 @@ A two players black and white board game.
 4. The black circle can only move to the black house tile and not to the white house tile. Similarly, the white circle can only move to the white house tile and not to the black house tile.<br/>
 5. The circles cannot move on the start grey tile (where the players started from).<br/>
 
-## how to win?
+## How to win?
 
 The target of the game is to make the black circle reach the black home and the white
 circle to white home. The player successfully completes the game when both the circles
