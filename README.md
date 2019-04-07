@@ -1,5 +1,5 @@
 # BlackNWhite
-A two players black and white board game. It is build on Libgdx framework oF Java.
+A two players black and white board game. It is build on Libgdx framework of Java.
 
 ## Basic Rules:
 
